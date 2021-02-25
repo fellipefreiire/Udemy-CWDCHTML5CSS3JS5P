@@ -2,12 +2,11 @@
 
 <!-- PROJECT SHIELDS -->
 
-![Udemy][udemy-shield]
-![Next][next-shield]
-![TypeScript][typescript-shield]
-![HTML5][html5-shield]
+![Udemy](https://img.shields.io/badge/-Udemy-critical?style=flat&logo=Udemy&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=Next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript][javascript-shield]
 
 First, run the development server:
 
