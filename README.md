@@ -9,7 +9,7 @@
 ![CSS3][css3-shield]
 ![Javascript][javascript-shield]
 
-Project available to access at:
+Project available to access at: [project-url]
 
 ## About course
 
@@ -43,6 +43,7 @@ This certificate above verifies that [Felipe Freire Alves de Oliveira][udemy-url
 [instructor-url]: https://www.udemy.com/user/daniel-tapias-morales/
 [instructor2-url]: https://www.udemy.com/user/serfrontendcursos/
 [certificate-url]: https://www.udemy.com/certificate/UC-51786796-0b49-4adf-8c1a-0e4059245e3d/
+[project-url]: https://udemy-cwdchtml-5-css-3-js-5-p.vercel.app/
 
 <!-- CONTACT SHIELDS -->
 
