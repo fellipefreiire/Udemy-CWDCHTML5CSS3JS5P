@@ -1,6 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Udemy-CWDCHTML5CSS3JS5P
 
-## Getting Started
+<!-- PROJECT SHIELDS -->
+
+![Udemy][udemy-shield]
+![Next][next-shield]
+![TypeScript][typescript-shield]
+![HTML5][html5-shield]
+![CSS3][css3-shield]
+![JavaScript][javascript-shield]
 
 First, run the development server:
 
