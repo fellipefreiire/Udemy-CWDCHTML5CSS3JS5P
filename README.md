@@ -36,7 +36,6 @@ This certificate above verifies that [Felipe Freire Alves de Oliveira][udemy-url
 [![Github][github-shield]][github-url]
 [![Udemy][udemy-shield]][udemy-url]
 [![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 <!-- ALIAS README -->
 
