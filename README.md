@@ -2,40 +2,67 @@
 
 <!-- PROJECT SHIELDS -->
 
-![Udemy](https://img.shields.io/badge/-Udemy-critical?style=flat&logo=Udemy&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=Next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
+![Udemy][udemy-shield]
+![Next.js][nextjs-shield]
+![TypeScript][typescript-shield]
+![HTML5][html5-shield]
+![CSS3][css3-shield]
+![Javascript][javascript-shield]
 
-First, run the development server:
+Project available to access at:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## About course
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project was part of the Udemy course "Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos" by Daniel Tapias Morales.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+It about the basics of HTML5, CSS3 and JS but i used the tools that i'm currently working with.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Course][course-url]
+- [Instructor][instructor-url]
+- [Certificate][certificate-url]
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Certificate
 
-## Learn More
+This certificate above verifies that [Felipe Freire Alves de Oliveira][udemy-url] successfully completed the course [Curso Web Design Completo: HTML5, CSS3 e JS + 5 Projetos][course-url] on 04/21/2021 as taught by [Daniel Tapias Morales][instructor-url],[serfrontend Cursos][instructor2-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+  <img src="/certificate.jpg">
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![Gmail][gmail-shield]][gmail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+[![Udemy][udemy-shield]][udemy-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
 
-## Deploy on Vercel
+<!-- ALIAS README -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[course-url]: https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/
+[instructor-url]: https://www.udemy.com/user/daniel-tapias-morales/
+[instructor2-url]: https://www.udemy.com/user/serfrontendcursos/
+[certificate-url]: https://www.udemy.com/certificate/UC-51786796-0b49-4adf-8c1a-0e4059245e3d/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- CONTACT SHIELDS -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
+[gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?logo=gmail&colorB=D14836&logoColor=white
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?logo=github&colorB=181717&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?logo=instagram&colorB=EC5252&logoColor=white
+[udemy-shield]: https://img.shields.io/badge/-Udemy-black.svg?logo=udemy&colorB=EC5252&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/felipe-freire-alves-de-oliveira/
+[gmail-url]: mailto:fellipefreiire3@gmail.com?subject=It%20comes%20from%20Github%20profile
+[github-url]: https://github.com/fellipefreiire
+[instagram-url]: https://www.instagram.com/f.freire_/
+[udemy-url]: https://www.udemy.com/user/felipe-freire-alves-de-oliveira/
+
+<!-- PROJECT SHIELDS -->
+
+[html5-shield]: https://img.shields.io/badge/-HTML5-important?style=flat&logo=HTML5&logoColor=white
+[css3-shield]: https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white
+[javascript-shield]: https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white
+[typescript-shield]: https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white
+[nextjs-shield]: https://img.shields.io/badge/-Next.js-black?style=flat&logo=Next.js&logoColor=white
+[udemy-shield]: https://img.shields.io/badge/-Udemy-indianred?style=flat&logo=Udemy&logoColor=white
