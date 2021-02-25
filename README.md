@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 
 First, run the development server:
 
