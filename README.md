@@ -6,7 +6,7 @@
 ![Next][next-shield]
 ![TypeScript][typescript-shield]
 ![HTML5][html5-shield]
-![CSS3][css3-shield]
+https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3
 ![JavaScript][javascript-shield]
 
 First, run the development server:
