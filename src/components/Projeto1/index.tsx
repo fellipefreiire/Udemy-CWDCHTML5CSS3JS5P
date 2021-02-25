@@ -4,11 +4,11 @@ import Footer from "./Footer";
 
 const Projeto1: React.FC = () => {
   return (
-    <div>
+    <>
       <Header />
       <Main />
       <Footer />
-    </div>
+    </>
   );
 };
 

@@ -1,10 +1,11 @@
 import Head from "next/head";
+import Index from "../components/Index";
 
 const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Curso Web Design</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="viewport"
@@ -12,7 +13,7 @@ const Home: React.FC = () => {
         ></meta>
       </Head>
       <main>
-        <div>oi</div>
+        <Index />
       </main>
     </>
   );

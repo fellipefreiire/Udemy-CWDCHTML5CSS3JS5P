@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Curso Web Design - Projeto 1</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="viewport"
