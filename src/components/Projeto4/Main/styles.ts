@@ -18,6 +18,7 @@ export const MainH2 = styled.h2`
   color: #a87bb7 !important;
   font-size: 1rem;
   line-height: 1.5;
+  margin-bottom: 0.5rem;
 `;
 
 export const MainH3 = styled.h3`
