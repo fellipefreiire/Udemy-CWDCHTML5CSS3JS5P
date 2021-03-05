@@ -1,9 +1,7 @@
 import styled from "styled-components";
 
 export const Projeto4Wrapper = styled.div`
-  html {
-    font-family: sans-serif;
-  }
+  background: #f6f6f6;
 
   h1,
   h2,

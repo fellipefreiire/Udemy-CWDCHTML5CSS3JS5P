@@ -6,18 +6,18 @@ export const Section = styled.section`
     css`
       padding: 1rem;
       text-align: center;
-      background: #f6f6f6;
+    `}
 
-      h1 {
-        color: #612674;
-        font-size: 1.375rem;
-        margin: 1.375rem;
-      }
+  ${(props) =>
+    props.className === "middle-content" &&
+    css`
+      padding: 2rem;
+      text-align: center;
+    `}
 
-      h2 {
-        color: #a87bb7;
-        font-size: 1rem;
-        line-height: 1.5;
-      }
+  ${(props) =>
+    props.className === "main-content" &&
+    css`
+      padding: 2rem;
     `}
 `;

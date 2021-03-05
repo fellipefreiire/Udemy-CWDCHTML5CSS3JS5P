@@ -1,20 +1,24 @@
 export const sections = [
   {
+    icon: "Stopwatch",
     title: "Designer Guff",
     text:
       "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
   },
   {
+    icon: "StatsBars2",
     title: "Detaild Stats",
     text:
       "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
   },
   {
+    icon: "Clock",
     title: "Dashboard",
     text:
       "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
   },
   {
+    icon: "Cog",
     title: "Development",
     text:
       "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
