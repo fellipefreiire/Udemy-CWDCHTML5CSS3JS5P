@@ -1,16 +1,19 @@
 import * as S from "./styles";
 import Link from "next/link";
+import Image from "next/image";
 import { contents } from "./contents";
 
 const Header: React.FC = () => {
   return (
     <S.Header>
-      <S.HeaderImage
-        width="300"
-        height="100"
-        src="/projeto4/logo_mob.svg"
-        alt="logotipo range Hotels"
-      />
+      <S.ImageWrapper>
+        <Image
+          width="300"
+          height="100"
+          src="/projeto4/logo_mob.svg"
+          alt="logotipo range Hotels"
+        />
+      </S.ImageWrapper>
 
       <S.Nav>
         <S.Ul>

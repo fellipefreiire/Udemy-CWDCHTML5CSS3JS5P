@@ -5,7 +5,15 @@ interface SectionProps {
 }
 
 const Section: React.FC<SectionProps> = (props) => {
-  return <S.Section className={props.className}>{props.children}</S.Section>;
+  return (
+    <S.Section
+      bg="/projeto4/bg_topo_1198x670.jpg"
+      bg2="/projeto4/bg_topo_1600x1374.jpg"
+      className={props.className}
+    >
+      {props.children}
+    </S.Section>
+  );
 };
 
 export default Section;

@@ -8,6 +8,9 @@ const Main: React.FC = () => {
   return (
     <main>
       <Section className="top-content">
+        <S.HeaderIconWrapper>
+          <img src="/projeto4/icon_play.svg" alt="" />
+        </S.HeaderIconWrapper>
         <S.MainH1>A exciting new venture over the range</S.MainH1>
         <S.MainH2>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -21,13 +24,13 @@ const Main: React.FC = () => {
         {sections.map((section, i) => {
           const Icon = Icons[section.icon];
           return (
-            <article key={i}>
+            <S.MiddleContentArticle key={i}>
               <S.IconWrapper>
                 <Icon />
               </S.IconWrapper>
               <S.MainH3>{section.title}</S.MainH3>
               <S.MainP>{section.text}</S.MainP>
-            </article>
+            </S.MiddleContentArticle>
           );
         })}
       </Section>
