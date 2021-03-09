@@ -33,7 +33,10 @@ export const FooterSpan = styled.span`
   display: block;
 `;
 
-export const FooterP = styled.p``;
+export const FooterP = styled.p`
+  text-align: center;
+  padding-top: 20px;
+`;
 
 export const IconWrapper = styled.div`
   width: 30px;
