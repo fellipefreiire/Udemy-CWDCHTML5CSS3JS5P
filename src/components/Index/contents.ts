@@ -14,11 +14,11 @@ export const contents = [
     src: "/index/projeto3.gif",
     title: "Projeto 3",
   },
-  // {
-  //   href: "/projeto/quatro",
-  //   src: "/index/projeto2.gif",
-  //   title: "Projeto 4",
-  // },
+  {
+    href: "/projeto/quatro",
+    src: "/index/projeto4.gif",
+    title: "Projeto 4",
+  },
   // {
   //   href: "/projeto/cinco",
   //   src: "/index/projeto2.gif",
