@@ -18,7 +18,7 @@ export const ProjectsWrapper = styled.div`
   align-items: center;
 `;
 
-export const ProjetcWrapper = styled.div`
+export const ProjectWrapper = styled.div`
   width: 300px;
   height: 200px;
   border-radius: 20px;
@@ -28,7 +28,7 @@ export const ProjetcWrapper = styled.div`
     cursor: pointer;
   }
 `;
-export const Projetc = styled(Image)`
+export const Project = styled(Image)`
   border-radius: 20px;
 `;
 

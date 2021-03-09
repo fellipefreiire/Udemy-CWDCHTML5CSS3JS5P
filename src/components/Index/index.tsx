@@ -9,12 +9,12 @@ const Index: React.FC = () => {
       <S.ProjectsWrapper>
         {contents.map((content, i) => {
           return (
-            <S.ProjetcWrapper key={i}>
+            <S.ProjectWrapper key={i}>
               <Link href={content.href}>
-                <S.Projetc width="300" height="200" src={content.src} />
+                <S.Project width="300" height="200" src={content.src} />
               </Link>
               <S.Title>{content.title}</S.Title>
-            </S.ProjetcWrapper>
+            </S.ProjectWrapper>
           );
         })}
       </S.ProjectsWrapper>
