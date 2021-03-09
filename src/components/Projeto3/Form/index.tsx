@@ -5,8 +5,8 @@ const Form: React.FC = () => {
     <S.FormWrapper>
       <S.FormH5>Form</S.FormH5>
       <S.FormTextWrapper>
-        <S.FormInput type="text" name="name" id="name" placeholder="Name" />
-        <S.FormInput type="text" name="email" id="email" placeholder="Email" />
+        <S.FormInput type="text" name="name" id="name2" placeholder="Name" />
+        <S.FormInput type="text" name="email" id="email2" placeholder="Email" />
       </S.FormTextWrapper>
 
       <S.FormSelect>
